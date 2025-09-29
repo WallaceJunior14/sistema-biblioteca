@@ -45,28 +45,6 @@ O projeto segue princípios modernos de design com:
 - **Experiência Intuitiva**: Navegação clara e feedback visual adequado
 - **Paleta de Cores Profissional**: Tons escuros e elegantes apropriados para ambiente acadêmico
 
-## 📁 Estrutura do Projeto
-
-\`\`\`
-sistema-biblioteca/
-├── app/
-│   ├── dashboard/          # Área logada dos usuários
-│   ├── globals.css         # Estilos globais e tema
-│   ├── layout.tsx          # Layout principal
-│   └── page.tsx            # Página de login
-├── components/
-│   ├── ui/                 # Componentes base do shadcn/ui
-│   ├── associado-dashboard.tsx
-│   ├── bibliotecario-dashboard.tsx
-│   ├── consulta-acervo.tsx
-│   ├── historico-emprestimos.tsx
-│   ├── cadastrar-associado.tsx
-│   ├── cadastrar-item.tsx
-│   ├── gerenciar-emprestimos.tsx
-│   └── login-form.tsx
-└── README.md
-\`\`\`
-
 ## 🚀 Como Executar
 
 1. **Clone o repositório**
